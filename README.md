@@ -25,7 +25,7 @@ golang 版本特点
 ### v3源码地址
 
 * 码云地址：https://git.oschina.net/duolatech/xapimanager
-* github地址：https://github.com/duolatech/xApi-Manager
+* github地址：https://github.com/duolatech/xapimanager
 
 项目介绍
 ========
