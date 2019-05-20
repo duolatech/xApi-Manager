@@ -6,9 +6,9 @@ XAPI MANAGER -专业实用的开源接口管理平台，为程序开发者提供
 
 基于golang开发的V3版本已上线
 
-*官方地址：[https://xapi.smaty.net/](http://)
-*项目部署及配置：[https://shuka.smaty.net/t/xapimanager](http://) (安装和升级请参考手册)
-*书咖网-开源图书社区: [https://shuka.smaty.net](http://)
+- 官方地址：[https://xapi.smaty.net/](http://)
+- 项目部署及配置：[https://shuka.smaty.net/t/xapimanager](http://) (安装和升级请参考手册)
+- 书咖网-开源图书社区: [https://shuka.smaty.net](http://)
 
 golang 版本特点
 
@@ -30,11 +30,11 @@ golang 版本特点
 项目介绍
 ========
 **控制台** 
-<img src="./screenshot/dash.jpg">
+<img src="./screenshot/dash.png">
 **多项目支持** 
-<img src="./screenshot/project.jpg">
+<img src="./screenshot/project.png">
 **Api列表** 
-<img src="./screenshot/apilist.jpg">
+<img src="./screenshot/apilist.png">
 
 最后
 ========
